@@ -14,6 +14,7 @@ scores = {
     'l': combined_name.count('l'),
     'o': combined_name.count('o'),
     'v': combined_name.count('v'),
+    'e': combined_name.count('v'),
 }
 
 total_score = 0
